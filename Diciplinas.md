@@ -64,7 +64,9 @@ referentes à área de atuação.
 
 Esta é a diciplina que sera abordada na APS (Atividade Pedagógica Supervisionada) que é um dia da semana em que voce fara as atividades 
 em casa sem precisar ir a instituição.
+
 ### Metodologia
+
 A disponibilização do material didático ocorrerá de forma organizada em
 unidades (I a IV), conforme o cronograma de postagem estabelecido no
 Ambiente Virtual de Aprendizagem (AVA), em consonância com as
