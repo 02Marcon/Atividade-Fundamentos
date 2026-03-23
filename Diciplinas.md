@@ -12,7 +12,7 @@ utilização do pensamento computacional.
 ### Objetivos
 
 Introduzir o aluno ao mundo real da Engenharia de Software,
-desenvolvendo:
+desenvolvendo: 
 
 Alfabetização digital e instrumental.
 Autonomia no uso de ferramentas.
